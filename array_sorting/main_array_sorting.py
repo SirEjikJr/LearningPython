@@ -4,7 +4,6 @@ def main_bubble_sort(arr, array):
         array[i], array[j] = array[j], array[i]
     n = len(arr)
     swapped = True
-
     x = -1
     while swapped:
         swapped = False

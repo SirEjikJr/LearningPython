@@ -32,4 +32,3 @@ def middle_value(arr):
         print(s)
         middle_array.append(s)
        # print(middle_array)
-
